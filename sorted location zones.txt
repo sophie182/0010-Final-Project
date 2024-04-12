@@ -1,0 +1,118 @@
+
+5
+'328 - Ivy Bellefonte Lot' - shadyside
+'411 - Shadyside' - shadyside
+'414 - Mellon Park'
+'SHADYSIDE1' 
+'SHADYSIDE2' 
+
+6
+'407 - Oakland 1' 
+'408 - Oakland 2'
+'409 - Oakland 3' 
+'410 - Oakland 4' 
+'424 - Technology Drive'
+'S. Craig'
+
+7
+'301 - Sheridan Harvard Lot' - el
+'302 - Sheridan Kirkwood Lot' - el
+'304 - Tamello Beatty Lot' - el
+'307 - Eva Beatty Lot' - el
+'311 - Ansley Beatty Lot' - el
+'314 - Penn Circle NW Lot' - el
+'412 - East Liberty' 
+
+8
+'322 - Forbes Shady Lot' - sq hill
+'324 - Forbes Murray Lot' - sq hill
+'325 - JCC/Forbes Lot' - sq hill
+'321 - Beacon Bartlett Lot' - sq hill
+'323 - Douglas Phillips Lot' - sq hill
+'413 - Squirrel Hill' 
+'SQ.HILL1'
+'SQ.HILL2' 
+
+1
+'331 - Homewood Zenith Lot' - homewood
+
+3
+'334 - Taylor Street Lot' - bloomfield
+'335 - Friendship Cedarville Lot' - bloomfield
+'406 - Bloomfield (On-street)' - bloomfield
+
+3
+'337 - 52nd & Butler Lot' - lawrenceville
+'338 - 42nd & Butler Lot' - lawrenceville
+'405 - Lawrenceville'
+
+7
+'341 - 18th & Sidney Lot' - southside flats
+'342 - East Carson Lot' - southside flats
+'343 - 19th & Carson Lot' - southside flats 
+'344 - 18th & Carson Lot' - southside flats
+'345 - 20th & Sidney Lot' - southside flats
+'415 - SS & SSW' - southside flats
+'Southside Lots'
+
+2
+'351 - Brownsville & Sandkey Lot' - carrick
+'416 - Carrick' 
+
+3
+'354 - Walter/Warrington Lot' - allentown
+'355 - Asteroid Warrington Lot' - allentown
+'417 - Allentown' 
+
+2
+'357 - Shiloh Street Lot' - mount washington
+'420 - Mt. Washington'
+
+2
+'361 - Brookline Lot' - brookline 
+'419 - Brookline'
+
+2
+'363 - Beechview Lot' - beechview
+'418 - Beechview
+
+2
+'369 - Main/Alexander Lot' - west end
+'423 - West End' 
+
+1
+'371 - East Ohio Street Lot' - East Allegheny
+
+1
+'375 - Oberservatory Hill Lot' - Perry North
+
+2
+'401 - Downtown 1' - downtown 
+'402 - Downtown 2' - downtown 
+
+3
+'403 - Uptown' - uptown 
+'UPTOWN1' 
+'UPTOWN2'
+
+
+1
+'404 - Strip Disctrict' - strip district
+
+2
+'421 - NorthSide' - north shore
+'422 - Northshore' - north shore
+
+1
+'425 - Bakery Sq' - Larimer
+
+2
+'426 - Hill District' - hill district
+'HILL-DIST-2' 
+
+1
+'W CIRC DR' - monroe heights
+
+
+
+ 
